@@ -1,4 +1,4 @@
-# **Cryptography:Coded Correspondence**
+# **Cryptography: Coded Correspondence**
 
 This project is a cryptography exercise where the user interacts with a storyline involving encoded letters exchanged with a fictional pen pal named Vishal. The central task is to implement and solve cryptographic puzzles using Python, primarily focusing on the **Caesar Cipher** method.
 
